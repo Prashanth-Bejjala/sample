@@ -94,5 +94,16 @@ export default {
   flex-wrap: wrap;
   margin-top: 20px;
 }
-
+.image-item {
+  margin: 10px;
+  height: 100px;
+  text-align: center;
+}
+.uploaded-image {
+  max-width: 150px;
+  max-height: 150px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
 </style>
